@@ -1,4 +1,4 @@
-# Exercice 3 — RodiumAI avec le SDK Python
+# Exercice 3 - RodiumAI avec le SDK Python
 
 Script interactif utilisant le SDK officiel `rodiumai` pour le chat, la génération d'image et la génération de vidéo.
 
